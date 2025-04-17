@@ -4,10 +4,12 @@ This repository contains my personal configuration files for various tools and s
 
 ## Currently Configured
 
-- Starship – Cross-shell prompt configuration  
-- Bash – `.bashrc` and other bash settings  
-- Fish – `config.fish` and functions  
-- Neofetch – System information display config  
+- Starship – Cross-shell prompt configuration
+- Bash – `.bashrc` and other bash settings
+- Fish – `config.fish` and functions
+- OMF – Oh My Fish configs
+- Neofetch – System information display config
+- FastFetch – System information display config
 
 ## Usage
 
